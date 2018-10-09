@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EightBall</string>
+    <string name="start_button">Start</string>
+    <string name="about_button">About</string>
+    <string name="shake_button">Shake</string>
+    <string name="submit_button">Submit</string>
+    <string-array name="fortunes">
+        <item>As I see it, yes</item>
+        <item>Ask again later</item>
+        <item>Better not to tell you now</item>
+        <item>Cannot predict now</item>
+        <item>Concentrate and ask again</item>
+        <item>Do not count on it</item>
+        <item>It is certain</item>
+        <item>Most likely</item>
+        <item>My reply is no</item>
+        <item>My sources say no</item>
+        <item>Outlook good</item>
+        <item>Outlook not so good</item>
+        <item>Reply hazy try again</item>
+        <item>Signs point to yes</item>
+        <item>Very doubtful</item>
+        <item>Without a doubt</item>
+        <item>Yes</item>
+        <item>You may rely on it</item>
+        <item>Absolutely not</item>
+        <item>Come back later</item>
+    </string-array>
+    <string name="user_name">Your Name Here</string>
+</resources>
